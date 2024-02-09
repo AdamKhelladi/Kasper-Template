@@ -1,4 +1,4 @@
-/* Start Var */   
+ /* Start Var */   
 :root {
   --main-color: #14b4e0;
   --secondary-color: #575757;  
@@ -7,7 +7,7 @@
 }
 /* Start Var */ 
 /* Start Global Rules  */
-* {
+* { 
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
 
